@@ -23,7 +23,7 @@ hello
 ok
 
 ```
-The cherry on top of te cake was the 8085 tcwrapped port which was running a websocket server that sends basic remote controll commands via wifi ( I belive this service was left open when testing basic functionality of the TV-s because It can be cofigured to controll a bunch of TV-s simultaneously)
+The cherry on top of te cake was the 8085 tcwrapped port which was running a websocket server that sends basic remote controll commands via wifi ( I belive this service was left open when testing basic functionality of the TV-s because It can be cofigured to controll a bunch of TV-s simultaneously). 
 Entering https://192.168.0.102:8085/ sends you to the websocket client
 
 ![screencap.jpg](https://github.com/meritonkryeziu0/remote_ws/blob/main/screencap.jpg)
